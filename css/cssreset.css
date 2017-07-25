@@ -64,7 +64,9 @@ table {
 	border-spacing:0;
 
 }
-
+a {
+	text-decoration: none;
+}
 fieldset,
 
 img {
@@ -119,4 +121,7 @@ select {
 }
 img {
 	border: 0 none;
+}
+input {
+	border: none;
 }
