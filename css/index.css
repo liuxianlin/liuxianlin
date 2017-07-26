@@ -233,32 +233,28 @@ a{
 }
 .product {
 	width: 970px;
-	height: 350px;
+	height: 345px;
 	margin: 0 auto;
-	margin-top: 12px;background-color: pink;
+	margin-top: 12px; 
 }
 .product .product_l {
 	width: 738px;
-	height: 350px;
-	background-color: yellow;
-}
-
-.product_l {
+	height: 345px;
 	border: 1px solid #D8D8D8;
-}
+}	
 .product .product_l_top{
 	width: 712px;
 	height: 155px;
 	margin:17px 0 0 26px;
 
 }
-.product .product_l_top_1 {
+.product .product_l_top .product_l_top_1 {
 	width: 350px;
 	height:146px;
 }
-.product .product_l_top_1 .buy{
+.product .buy{
 	width: 99px;
-	height: 143px;
+	height: 146px;
 }
 .product .product_l_top_1 .buy .img {
 	height: 100PX;
@@ -279,7 +275,7 @@ a{
 	color: white;
 	margin-top: 15px;
 }
-.product .product_l_top_1 .explain{
+.product  .explain{
 	width: 250px;
 	height: 143px;
 }
@@ -287,7 +283,7 @@ a{
 	font-size: 14px;
 	padding:10px 0 0 10px;
 }
-.product .product_l_top_1 .explain .explain_auto {
+.product  .explain .explain_auto {
 	color: #863E01;
 	padding: 13px 0 0 15px;
 }
@@ -306,12 +302,62 @@ a{
 	padding: 8px 0 0 11px;
 	color:red;
 }
-.product .product_r {
-	width: 230px;
-	height: 345px;
-	background-color: yellow;
-}
-.product_l_line {
+
+.product .product_l_line {
 	margin: 0 4px 0 4px;
-	border-top: 1px solid red;
+	border-top: 1px solid #D8D8D8;
+}
+.product .product_r {
+	width: 220px;
+	height: 345px;
+	border:1px solid #E0E6F0;
+}
+.product_r h2 {
+	height: 28px;
+	line-height: 28px;
+	padding-left: 15px;
+	border-bottom: 1px solid #E0E6F0;
+}
+.product_r ul {
+	padding-top: 11px;
+}
+.product_r li {
+	font-size: 13px;
+	line-height: 23px;
+	padding-left: 26px;
+}
+.product_r s {
+	display: inline-block;
+	width: 4px;
+	height: 4px;
+	background: url(../image/liu.png) 0 -20px;
+	vertical-align: middle;
+	padding-right: 5px;
+}
+.div {
+	width: 970px;
+	height: 500px;
+	background-color: teal;
+	margin: 0 auto;
+}
+.link {
+	width: 970px;
+	height: 103px;
+	margin: 0 auto;
+	margin-top: 11px;
+	border-top: 1px solid #DDDDDD;
+	color: #666666;
+	border-bottom: 3px solid #0A7EC3; 
+}
+.p1 {
+	margin-top: 30px;
+}
+.about {
+	height: 91px;
+	width: 970px;
+	margin: 0 auto;
+}
+.about p {
+	margin-top: 14px;
+	text-align: center; 
 }
