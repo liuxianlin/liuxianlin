@@ -90,3 +90,228 @@ a{
 .nav li:hover a {
 	color: white;
 }
+.banner {
+	width: 970px;
+	height: 210px;
+	margin:  0 auto;
+	margin-top: 10px;
+}
+.subnav {
+	height: 210px;
+	width: 200px;
+	margin-right: 11px;
+}
+.ad {
+	width:520px;
+	height: 210px;
+	background-color: yellow;
+}
+.message {
+	width: 230px;
+	height: 210px;
+ 
+}
+.subnav h2 {
+	font-size: 14px;
+	font-weight: bold;
+	height: 30px;
+	background-color: #0266A3;
+	color: white;
+	padding-left: 20px;
+	line-height: 30px;
+}
+#s1 {
+	display: inline-block;
+	width: 17px;
+	height: 14px;
+	background: url(../image/liu.png) -270px 0;
+}
+#s2 {
+	display: inline-block;
+	width: 17px;
+	height: 16px;
+	background: url(../image/liu.png) -225px 0;
+}
+#s3 {
+	display: inline-block;
+	width: 17px;
+	height: 16px;
+	background: url(../image/liu.png) -250px 0;
+}
+#s4 {
+	display: inline-block;
+	width: 18px;
+	height: 16px;
+	background: url(../image/liu.png) -290px 0;
+}
+#s5 {
+	display: inline-block;
+	width: 21px;
+	height: 15px;
+	background: url(../image/liu.png) -320px 0;
+}
+#s6 {
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	background: url(../image/liu.png) -350px 0;
+	vertical-align: middle;
+}
+.subnav  ul {
+	background-color: #EBF0F6;
+	height: 180px;
+}
+.subnav  li {
+	font-size: 15px;
+	padding-top: 8px;
+	margin-left: 9px;
+}
+.subnav  li a{
+	padding-left: 15px;
+}
+.message_top {
+	height: 95px;
+	border: 1px solid #DDDDDD;
+	background-color: #F7FAFF;
+	margin-bottom: 21PX;
+}
+.message_bottom{
+	height: 92px;
+	background-color: #F7F7F7;
+}
+.message_top s {
+	display: inline-block;
+	width: 41px;
+	height: 40px;
+	background: url(../image/liu.png) -225px  -20px;
+	margin: 20px 10px 0 10px ;
+}
+.message_top .fw {
+	font-weight: bold;
+	padding: 7px 0 0 18px;
+}
+.message_top .cheap {
+	font-size: 12px;
+	margin-top: 25px;
+}
+.message_bottom .findm {
+	padding-top: 11px;
+	font-size: 14px;
+	text-align: center;
+	
+}
+.message_bottom .tele {
+	text-decoration:none;
+	text-align: center;
+	margin-top: 9px;
+	color: #3F9CE0;
+}
+.message_bottom .tele s {
+	display: inline-block;
+	width: 22px;
+	height: 18px;
+	background: url(../image/liu.png) -350px 0;
+}
+.message_bottom .btn {
+	display: inline-block;
+	width: 79px;
+	height: 21px;
+	background: url(../image/liu.png) -380px 0;
+	margin-left: 75px;
+	margin-top: 9px;
+}
+.meteria {
+	width: 950px;
+	height: 34px;
+	border-top: 2px solid #C3D7E4;
+	margin: 0 auto;
+	margin-top: 14px;
+	line-height: 34px;
+	background-color: #ECF1F7;
+	font-weight: bold;
+	padding-left: 20px;
+}
+.product {
+	width: 970px;
+	height: 350px;
+	margin: 0 auto;
+	margin-top: 12px;background-color: pink;
+}
+.product .product_l {
+	width: 738px;
+	height: 350px;
+	background-color: yellow;
+}
+
+.product_l {
+	border: 1px solid #D8D8D8;
+}
+.product .product_l_top{
+	width: 712px;
+	height: 155px;
+	margin:17px 0 0 26px;
+
+}
+.product .product_l_top_1 {
+	width: 350px;
+	height:146px;
+}
+.product .product_l_top_1 .buy{
+	width: 99px;
+	height: 143px;
+}
+.product .product_l_top_1 .buy .img {
+	height: 100PX;
+	border: 1px solid #CACACA; 
+
+}
+.product .product_l_top_1 .buy .img s {
+	display: inline-block;
+	width: 90px;
+	height: 62px;
+	background: url(../image/liu.png) -465px 0;
+	margin:10px 4px 0 3px;
+}
+.product .product_l_top_1 .buy  .btn {
+	height:26px;
+	width: 99px;
+	background-color: #0A84E3;
+	color: white;
+	margin-top: 15px;
+}
+.product .product_l_top_1 .explain{
+	width: 250px;
+	height: 143px;
+}
+.product .product_l_top_1 .explain .explain_top {
+	font-size: 14px;
+	padding:10px 0 0 10px;
+}
+.product .product_l_top_1 .explain .explain_auto {
+	color: #863E01;
+	padding: 13px 0 0 15px;
+}
+.product .product_l_top_1 .explain .money {
+	padding: 15px  0 0 11px;
+}
+.product .product_l_top_1 .explain .money  span {
+	color: red;
+	font-size: 18px;
+}
+.product .product_l_top_1 .explain .money  s {
+	text-decoration: line-through;
+} 
+.product .product_l_top_1 .explain .ed {
+	font-size: 14px;
+	padding: 8px 0 0 11px;
+	color:red;
+}
+.product .product_r {
+	width: 230px;
+	height: 345px;
+	background-color: yellow;
+}
+.product_l_line {
+	margin: 0 4px 0 4px;
+	border-top: 1px solid red;
+}
