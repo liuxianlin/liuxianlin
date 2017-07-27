@@ -21,8 +21,7 @@ a{
 .top_page_r  ul li{
 	float: right;
 	padding-right: 10px;
-	line-height: 26px;
-	
+	line-height: 26px;	
 }
 .top_page_r  ul li s {
 	width: 14px;
@@ -58,7 +57,7 @@ a{
 	width: 418px;
 	height: 28px;
 	border: 1px solid #C9C9C9;
-	color: #999999
+	color: #999999;
 }
 .logo_r_btn{
 	width: 99px;
@@ -337,7 +336,7 @@ a{
 .div {
 	width: 970px;
 	height: 500px;
-	background-color: teal;
+ 
 	margin: 0 auto;
 }
 .link {
@@ -361,3 +360,90 @@ a{
 	margin-top: 14px;
 	text-align: center; 
 }
+.child {
+	margin: 0 auto;
+	width: 956px;
+	height: 30px;
+	background-color: #ECF1F7;
+	margin-top: 10px;
+	border-top: 2px solid #C3D7E4;
+	padding-left: 15px;
+}
+.child_top {
+	width: 700px;
+	height: 30px;
+	
+ 	background-color: red;
+	border-bottom: 5px solid blue;
+	margin-top: 10px;
+	background-color: #ECF1F7;
+}
+.child_top_l {
+	font-size: 20px;
+	text-decoration: none;
+	background-color: blue;
+	width: 100px;
+	height:30px;
+	color: white;
+	line-height: 30px;
+	padding : 0 0 0 10px;
+}
+.child_top_r {
+	width: 100px;
+	height:30px;
+	line-height: 30px;
+	font-size: 20px;
+}
+.child_top_r   a {
+	color: blue;
+}
+.child_to {
+	width: 970px;
+	height: 30px;
+
+}
+.div_1 {
+	width: 700px;
+	height: 500px;
+ 
+}
+.div_dwon {
+	width: 700px;
+	height: 450px;
+	margin-top: 10px;
+ 
+}
+.product1 {
+	width: 175px;
+	height: 450px;
+ 
+}
+
+.product1  s {
+	display: inline-block;
+	width: 164px;
+	height: 170px;
+	background: url(../image/liu.png) 0 -80px;
+ }
+ .product1 p {
+ 	padding-top: 20px;
+ }
+ .cp1 {
+ 	font-size: 16px;
+ }
+ .cp4  span {
+	color: red;
+	font-size: 20px;
+ }
+ .div_2{
+ 	width: 270px;
+ 	height: 500px;
+ }
+ .div_2 s {
+ 	display: inline-block;
+	width: 250px;
+	height: 490px;
+	background: url(../image/liu.png) -183px -71px;
+	float: right;
+	margin-top: 10px;
+ }
